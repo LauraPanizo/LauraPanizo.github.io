@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:4B9F8E3C-D187-47EC-9DCB-9FDA4C5DD04D</id>
+ <title>Page list Atom feed</title>
+ <updated>2022-12-27T16:27:03+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:E683D0DB-8297-49E5-9568-EE9B8DCEEDE4</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">E683D0DB-8297-49E5-9568-EE9B8DCEEDE4</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2022-12-27T16:27:03.001+01:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:50F1ACB1-5563-4980-BA43-506D920C6E48</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">50F1ACB1-5563-4980-BA43-506D920C6E48</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2022-12-27T16:27:03.002+01:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:42B5D5F5-F745-4F51-82B8-247D8C489E3A</id>
+  <title>Projects</title>
+  <title xmlns="urn:iweb:">Projects</title>
+  <in-navbar xmlns="urn:iweb:">42B5D5F5-F745-4F51-82B8-247D8C489E3A</in-navbar>
+  <link rel="alternate" href="Projects.html"/>
+  <updated>2022-12-27T16:27:03.003+01:00</updated>
+  <content>Projects</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:949E8195-20BA-4F1B-BCA3-591D328DB5A5</id>
+  <title>Others</title>
+  <title xmlns="urn:iweb:">Others</title>
+  <in-navbar xmlns="urn:iweb:">949E8195-20BA-4F1B-BCA3-591D328DB5A5</in-navbar>
+  <link rel="alternate" href="Others.html"/>
+  <updated>2022-12-27T16:27:03.004+01:00</updated>
+  <content>Others</content>
+ </entry>
+</feed>
