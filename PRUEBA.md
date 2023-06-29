@@ -1,5 +1,6 @@
+---
 layout: page
 title: "prueba"
 permalink: /prueba
-
-Página de prueba
+---
+# Página de prueba
